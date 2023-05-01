@@ -3,7 +3,7 @@ Plugin Name: Divi Coming Soon Exporter
 Description: A plugin to export pre-made Divi coming soon page layouts.
 Version: 1.0.0
 Author: Your Name
-Author URI: http://yourwebsite.com
+Author URI: http://markmemayank.com
 */
 
 <?php
